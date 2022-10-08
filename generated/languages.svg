@@ -126,9 +126,9 @@ div.ellipsis {
   
 
 </style>
-<linearGradient id="Gradient2" x1="0" x2="0" y1="0" y2="1">
+<linearGradient id="Gradient2" x1="1" x2="0" y1="0" y2="0">
       <stop offset="0%" stop-color="#000370"/>
-      <stop offset="30%" stop-color="black" />
+      <stop offset="50%" stop-color="black" />
 </linearGradient>
 <g>
 <rect x="5" y="5" id="background"/>
