@@ -10,7 +10,7 @@ svg {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   fill: white;
-  stroke: rgb(225, 228, 232);
+  stroke: rgb(0, 0, 0);
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -121,6 +121,8 @@ div.ellipsis {
 #gh-dark-mode-only:target .percent {
   color: #8b949e;
 }
+  
+
 </style>
 <g>
 <rect x="5" y="5" id="background" />
@@ -128,7 +130,7 @@ div.ellipsis {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2>Languages Used (By File Size)</h2>
+<h2 style="color:#b026ff">Languages Used (By File Size)</h2>
 
 <div>
 <span class="progress">
@@ -136,7 +138,7 @@ div.ellipsis {
 </span>
 </div>
 
-<ul>
+<ul style="color:#fefefe">
 
 
 <li style="animation-delay: 0ms;">
