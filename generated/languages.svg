@@ -32,8 +32,8 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
+  color: #b026ff;
+  fill: #b026ff;
 }
 
 #gh-dark-mode-only:target h2 {
@@ -46,6 +46,7 @@ ul {
   padding-left: 0;
   margin-top: 0;
   margin-bottom: 0;
+  color: #b026ff;
 }
 
 li {
@@ -107,7 +108,7 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(255, 255, 255);
+  color: #b026ff;
 }
 
 #gh-dark-mode-only:target .lang {
@@ -130,7 +131,7 @@ div.ellipsis {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2 style="color:#b026ff">Languages Used (By File Size)</h2>
+<h2>Languages Used (By File Size)</h2>
 
 <div>
 <span class="progress">
@@ -138,7 +139,7 @@ div.ellipsis {
 </span>
 </div>
 
-<ul style="color:#fefefe">
+<ul>
 
 
 <li style="animation-delay: 0ms;">
